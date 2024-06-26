@@ -1,0 +1,17 @@
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\AvitoPF.exe.config
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\AvitoPF.exe
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\AvitoPF.pdb
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\WebDriver.dll
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\WebDriver.xml
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\obj\Debug\AvitoPF.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\obj\Debug\AvitoPF.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\obj\Debug\AvitoPF.csproj.Up2Date
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\obj\Debug\AvitoPF.exe
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\obj\Debug\AvitoPF.pdb
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+C:\Users\Anton\source\repos\AvitoPF\AvitoPF\bin\Debug\SeleniumExtras.WaitHelpers.dll
